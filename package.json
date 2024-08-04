@@ -1,6 +1,6 @@
 {
   "name": "formcheck-validation",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple form validation package for web applications",
   "main": "index.js",
   "scripts": {
