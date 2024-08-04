@@ -14,11 +14,6 @@ function validateForm(data) {
       errors.url = "Invalid URL";
     }
   
-    // Custom validation rule example
-    if (data.customField !== 'expectedValue') {
-      errors.customField = "Custom field does not match expected value";
-    }
-  
     return errors;
   }
   

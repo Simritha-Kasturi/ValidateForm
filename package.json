@@ -1,0 +1,31 @@
+{
+  "name": "formcheck-validation",
+  "version": "1.0.0",
+  "description": "A simple form validation package for web applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Simritha-Kasturi/ValidateForm.git"
+  },
+  "keywords": [
+    "form",
+    "validation",
+    "validator",
+    "javascript",
+    "nodejs",
+    "web",
+    "web-forms",
+    "email-validation",
+    "phone-validation",
+    "url-validation",
+    "real-time-validation"
+  ],
+  "author": "Simritha",
+  "license": "ISC",
+  "dependencies": {
+    "formcheck-simritha": "^1.0.0"
+  }
+}
